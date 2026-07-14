@@ -1,0 +1,7 @@
+id = "onedark"
+name = "OneDark Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["valium <valium007@proton.me>"]
+description = "OneDark colorscheme for Zed"
+repository = "https://github.com/valium007/zed-onedark"
